@@ -19,8 +19,7 @@
 
 <h3>Blog & Portfolio</h3>
 <p>
-  <a href="https://velog.io/@wslee94"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp 
-  <a href="https://wslee3.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog(old)-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp 
+  <a href="https://wslee94.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp 
   <a href="https://wslee94.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>&nbsp 
 </p>
 
